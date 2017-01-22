@@ -1,0 +1,6 @@
+c:\users\ozans\onedrive\belgeler\visual studio 2015\Projects\CSharpDenemeleri\CSharpDenemeleri\bin\Debug\CSharpDenemeleri.exe.config
+C:\Users\ozans\OneDrive\Belgeler\Visual Studio 2015\Projects\CSharpDenemeleri\CSharpDenemeleri\bin\Debug\CSharpDenemeleri.exe
+C:\Users\ozans\OneDrive\Belgeler\Visual Studio 2015\Projects\CSharpDenemeleri\CSharpDenemeleri\bin\Debug\CSharpDenemeleri.pdb
+C:\Users\ozans\OneDrive\Belgeler\Visual Studio 2015\Projects\CSharpDenemeleri\CSharpDenemeleri\obj\Debug\CSharpDenemeleri.csprojResolveAssemblyReference.cache
+C:\Users\ozans\OneDrive\Belgeler\Visual Studio 2015\Projects\CSharpDenemeleri\CSharpDenemeleri\obj\Debug\CSharpDenemeleri.exe
+C:\Users\ozans\OneDrive\Belgeler\Visual Studio 2015\Projects\CSharpDenemeleri\CSharpDenemeleri\obj\Debug\CSharpDenemeleri.pdb
