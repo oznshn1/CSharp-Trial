@@ -13,9 +13,10 @@ namespace CSharpDenemeleri
             int sum = 0, i = 1;
             while (i <= p1)
             {
-                if (i % 2 != 0)
+                if (i % 2 != 0)//tek sayilari sum degiskenine ekle ve yazdir
                 {
                     sum += i;
+					//Console.Write(i+" ");
                     Console.Write("{0} ", i);
                 }
                 i++;
