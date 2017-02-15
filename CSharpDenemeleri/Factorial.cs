@@ -18,5 +18,12 @@ namespace CSharpDenemeleri
             }
             return sum;
         }
+        public int factorial_recursive(int p1)
+        {
+            if (p1 > 0)
+                return p1*factorial_recursive(p1 - 1);
+
+            return 1;
+        }
     }
 }
